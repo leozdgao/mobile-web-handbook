@@ -1,6 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Basic](chapter1.md)
 * [Remote Debugging]()
 * [PWA]()
 * [AMP]()
