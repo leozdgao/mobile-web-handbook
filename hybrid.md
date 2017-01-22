@@ -1,0 +1,2 @@
+- 渠道包 https://zhuanlan.zhihu.com/p/24920734
+- 安卓应用签名
